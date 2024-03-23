@@ -1,74 +1,110 @@
-# <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
-- A Java Web Developement Project
-- **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
-- **Youtube VIDEO** for local setup of tender management project: https://www.youtube.com/watch?v=7CE3aY4e644
-<!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
-- User Login Credentials: (shashi/shashi)
-- Admin Login Credentials: (Admin/Admin)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><a href="https://youtu.be/mLFPodZO8Iw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网上书店</font></font></a></h1><a id="user-content--onlinebookstore-" class="anchor" aria-label="永久链接：网上书店" href="#-onlinebookstore-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Java Web 开发项目</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube 视频</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分步本地设置指南：</font></font><a href="https://youtu.be/mLFPodZO8Iw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://youtu.be/mLFPodZO8Iw</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于本地设置招标管理项目的</font><strong><font style="vertical-align: inherit;">Youtube 视频： </font></strong></font><a href="https://www.youtube.com/watch?v=7CE3aY4e644" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/watch ?v=7CE3aY4e644</font></font></a></li>
+</ul>
+
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户登录凭据：（shashi/shashi）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理员登录凭据：（管理员/管理员）</font></font></li>
+</ul>
 <hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></h3><a id="user-content-about" class="anchor" aria-label="永久链接：关于" href="#about"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个用户友好的在线书店项目，用户可以登录或注册，查看可用书籍，选择书籍及其数量，然后购买。</font><font style="vertical-align: inherit;">用户付款成功后还可以得到付款收据。</font><font style="vertical-align: inherit;">管理员也可以使用该项目，可以添加新图书、删除图书、增加和减少图书数量、更改图书价格以及维护图书的销售历史。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34605595/137615096-8447d32d-bddc-4f13-a8ed-3c0f4dd5e04e.png"><img src="https://user-images.githubusercontent.com/34605595/137615096-8447d32d-bddc-4f13-a8ed-3c0f4dd5e04e.png" alt="网上书店" style="max-width: 100%;"></a></p>
+<p dir="auto"><span><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本网站的建立是为了以下目的：-</font></font></strong></span></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于在线销售书籍。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维护图书销售历史。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加和管理书籍。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">方便使用的。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于在 Java 中实现 Http Servlet。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是一个使用Java、Jdbc和Servlet开发的迷你项目。</font></font></li>
+</ul>
+<p dir="auto"><span><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理员对此在线商店网站具有以下访问权限：-</font></font></strong></span></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加新书。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看可用书籍。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">删除书籍。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">增加书籍数量。</font></font></li>
+</ul>
+<p dir="auto"><span><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户可以访问此在线商店网站：-</font></font></strong></span></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建新帐户或注册。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登录。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看可用书籍。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择要购买的书籍。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择书籍数量。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">买书。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取付款收据。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用的技术：-</font></font></h3><a id="user-content-technologies-used-" class="anchor" aria-label="永久链接：使用的技术：-" href="#technologies-used-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端开发：</font></font></li>
+</ol>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超文本标记语言</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引导程序</font></font></li>
+</ul>
+<ol start="2" dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">后端开发：</font></font></li>
+</ol>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Java [JDK 8+]</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库连接</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务程序</font></font></li>
+</ul>
+<ol start="3" dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库：</font></font></li>
+</ol>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">================ 所需的软件和工具================</font></font></h3><a id="user-content--software-and-tools-required-" class="anchor" aria-label="永久链接：================ 所需的软件和工具================" href="#-software-and-tools-required-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Git [ </font></font><a href="https://www.youtube.com/watch?v=gv7VPQ4LZ7g" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/watch?v=gv7VPQ4LZ7g</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Java JDK 8+ [ </font></font><a href="https://www.youtube.com/watch?v=O9PWH9SeTTE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/watch?v=O9PWH9SeTTE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Eclipse EE（企业版）[ </font></font><a href="https://www.youtube.com/watch?v=8aDsEV7txXE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/watch?v=8aDsEV7txXE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Apache Maven [ </font></font><a href="https://www.youtube.com/watch?v=jd2zx3dLjuw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/watch?v=jd2zx3dLjuw</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Tomcat v8.0+ [ </font></font><a href="https://youtu.be/mLFPodZO8Iw?t=903" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://youtu.be/mLFPodZO8Iw?t=903</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：MySQL 服务器 [ </font></font><a href="https://www.youtube.com/watch?v=Ydh5jYA6Frs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/watch?v=Ydh5jYA6Frs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：MySQL Workbench（可选）[ </font></font><a href="https://www.youtube.com/watch?v=t79oCeTXHwg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/watch?v=t79oCeTXHwg</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ]</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">================= 虚拟数据库初始化 =================</font></font></h3><a id="user-content--dummy-database-initialization-" class="anchor" aria-label="永久链接： ================= 虚拟数据库初始化 =================" href="#-dummy-database-initialization-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 1 步：打开 MySQL 命令提示符或 MySQL Workbench</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 2 步：登录管理员用户：（</font></font><code>mysql -u &lt;username&gt; -p</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果要求输入密码）</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤 3：复制粘贴以下 MySql 命令 -</font></font></p>
+<div class="highlight highlight-source-sql notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">create</span> <span class="pl-k">database</span> <span class="pl-en">if</span> not exists onlinebookstore;
 
-### About
+use onlinebookstore;
 
-A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
+<span class="pl-k">create</span> <span class="pl-k">table</span> <span class="pl-en">if</span> not exists books(barcode <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>) <span class="pl-k">primary key</span>, name <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>), author <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>), price <span class="pl-k">int</span>, quantity <span class="pl-k">int</span>);
 
-![onlinebookstore](https://user-images.githubusercontent.com/34605595/137615096-8447d32d-bddc-4f13-a8ed-3c0f4dd5e04e.png)
+<span class="pl-k">create</span> <span class="pl-k">table</span> <span class="pl-en">if</span> not exists users(username <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>) <span class="pl-k">primary key</span>,password <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>), firstname <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>),
+    lastname <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>),address <span class="pl-k">text</span>, phone <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>),mailid <span class="pl-k">varchar</span>(<span class="pl-c1">100</span>),usertype <span class="pl-k">int</span>);
 
-<span style="color:blue">**This Website is built for following purpose:-**</span>
-- For Selling books online.
-- Maintaining books selling history.
-- Adding and managing books.
-- User Friendly.
-- For Implementation of Http Servlets in Java.
-- This is a Mini-project developed using Java, Jdbc, And Servlets.
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9780134190563<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>The Go Programming Language<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Alan A. A. Donovan and Brian W. Kernighan<span class="pl-pds">'</span></span>,<span class="pl-c1">400</span>,<span class="pl-c1">8</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9780133053036<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>C++ Primer<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Stanley Lippman and Josée Lajoie and Barbara Moo<span class="pl-pds">'</span></span>,<span class="pl-c1">976</span>,<span class="pl-c1">13</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9781718500457<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>The Rust Programming Language<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Steve Klabnik and Carol Nichols<span class="pl-pds">'</span></span>,<span class="pl-c1">560</span>,<span class="pl-c1">12</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9781491910740<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Head First Java<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Kathy Sierra and Bert Bates and Trisha Gee<span class="pl-pds">'</span></span>,<span class="pl-c1">754</span>,<span class="pl-c1">23</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9781492056300<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Fluent Python<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Luciano Ramalho<span class="pl-pds">'</span></span>,<span class="pl-c1">1014</span>,<span class="pl-c1">5</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9781720043997<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>The Road to Learn React<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Robin Wieruch<span class="pl-pds">'</span></span>,<span class="pl-c1">239</span>,<span class="pl-c1">18</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9780132350884<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Clean Code: A Handbook of Agile Software Craftsmanship<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Robert C Martin<span class="pl-pds">'</span></span>,<span class="pl-c1">288</span>,<span class="pl-c1">3</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9780132181273<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Domain-Driven Design<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Eric Evans<span class="pl-pds">'</span></span>,<span class="pl-c1">560</span>,<span class="pl-c1">28</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9781951204006<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>A Programmers Guide to Computer Science<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>William Springer<span class="pl-pds">'</span></span>,<span class="pl-c1">188</span>,<span class="pl-c1">4</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9780316204552<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>The Soul of a New Machine<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Tracy Kidder<span class="pl-pds">'</span></span>,<span class="pl-c1">293</span>,<span class="pl-c1">30</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9780132778046<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Effective Java<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Joshua Bloch<span class="pl-pds">'</span></span>,<span class="pl-c1">368</span>,<span class="pl-c1">21</span>);
+<span class="pl-k">insert into</span> books <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>9781484255995<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Practical Rust Projects<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Shing Lyu<span class="pl-pds">'</span></span>,<span class="pl-c1">257</span>,<span class="pl-c1">15</span>);
+<span class="pl-k">insert into</span> users <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>demo<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>demo<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Demo<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>User<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Demo Home<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>42502216225<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>demo@gmail.com<span class="pl-pds">'</span></span>,<span class="pl-c1">2</span>);
+<span class="pl-k">insert into</span> users <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>Admin<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Admin<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Mr.<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Admin<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Haldia WB<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>9584552224521<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>admin@gmail.com<span class="pl-pds">'</span></span>,<span class="pl-c1">1</span>);
+<span class="pl-k">insert into</span> users <span class="pl-k">values</span>(<span class="pl-s"><span class="pl-pds">'</span>shashi<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>shashi<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Shashi<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Raj<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>Bihar<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>1236547089<span class="pl-pds">'</span></span>,<span class="pl-s"><span class="pl-pds">'</span>shashi@gmail.com<span class="pl-pds">'</span></span>,<span class="pl-c1">2</span>);
 
-<span style="color:blue">**Admin Have Following Access for this online store site:-**</span>
-- Add New Books.
-- View Books Available.
-- Remove Books.
-- Increase Books Amount.
-
-<span style="color:blue">**Users Have Following Access for this online store site:-**</span>
-- Create New Account or Register.
-- Login.
-- View Available Books.
-- Select Books to Buy.
-- Select Books Quantity.
-- Buy Books.
-- Get Payment Receipt.
-
-### Technologies used:-
-1. Front-End Development:
-- HTML
-- CSS
-- Javascript
-- BootStrap
-
-2. Back-End Development:
-- Java [JDK 8+]
-- JDBC
-- Servlet
-
-3. Database:
-- MySql
-
-### ================ Software And Tools Required ================
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE (Enterprise Edition) [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : MySQL Server [https://www.youtube.com/watch?v=Ydh5jYA6Frs]
-- : MySQL Workbench (optional) [https://www.youtube.com/watch?v=t79oCeTXHwg]
-
-### ================= Dummy Database Initialization =================
-
-STEP 1: Open MySQL Command Prompt or MySQL Workbench
-
-STEP 2: Login to the administrator user as : ```mysql -u <username> -p``` (Enter Password if asked)
-
-STEP 3: Copy paste the following MySql Commands-
-```MySQL
-create database if not exists onlinebookstore;
+<span class="pl-k">commit</span>;
+</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="create database if not exists onlinebookstore;
 
 use onlinebookstore;
 
@@ -94,50 +130,40 @@ insert into users values('Admin','Admin','Mr.','Admin','Haldia WB','958455222452
 insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','shashi@gmail.com',2);
 
 commit;
-
-```
-
-### ========== Importing and Running The Project Through Eclipse EE ==========
-
-Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
-
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/shashirajraja/onlinebookstore.git```> Select master Branch > Next > Next > Finish.
-
-Step 2. a: Go inside ```src/main/resources > application.properties``` and update the value of database details as per your usage, like db.driver, db.host, db.username and db.password according to your installed mysql/postgresql admin user credentials.
-
-Step 2.b: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
-
-Step 2.c: Right Click On Project > Build Path > Configure Build Path > Libraries > Remove and Update Any Libraries if Red Mark Exists > Finish.
-
-Step 3: [Only If Tomcat Server is not configured in Eclipse] : Right Click On Project > Run As > Run On Server > Select Tomcat V8.0 > (Select Tomcat V8.0 Installation Location If Asked) Next > Add onlinebookstore > Finish.
-
-Step 4: In The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save.
-
-Step 5: Right Click On Project > Run As > Run On Server > Select Tomcat v8.0 > Next > Add All> Done.
-
-Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstore/">http://localhost:8083/onlinebookstore/</a>
-
-Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
-
-Step 8: The default Username And Password For User Is "shashi" And "shashi"
-
-## FAQ
-**Question:1** Unable to Connect to Database?
-
-**Answer:** Please check you have installed the mysql correctly and have updated the correct db details in application.properties file. Also you can try doing maven clean install and force update the project and restart.
+" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">========== 通过 Eclipse EE 导入并运行项目 ==========</font></font></h3><a id="user-content--importing-and-running-the-project-through-eclipse-ee-" class="anchor" aria-label="永久链接：========== 通过 Eclipse EE 导入并运行项目 ==========" href="#-importing-and-running-the-project-through-eclipse-ee-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤0：打开Eclipse企业版。</font><font style="vertical-align: inherit;">[如果尚未安装，请安装。]</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 1 步：单击“文件”&gt;“导入”&gt;“Git”&gt;“Git 中的项目”&gt;“克隆 Uri”&gt; 将存储库 Url 粘贴为：</font></font><code>https://github.com/shashirajraja/onlinebookstore.git</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&gt; 选择“master 分支”&gt;“下一步”&gt;“下一步”&gt;“完成”。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤 2.a：进入</font></font><code>src/main/resources &gt; application.properties</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并根据您的使用情况更新数据库详细信息的值，例如根据您安装的 mysql/postgresql 管理员用户凭据的 db.driver、db.host、db.username 和 db.password。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤 2.b：右键单击项目 &gt; 运行方式 &gt; Maven 构建 &gt; 在目标字段中输入“全新安装”&gt; 应用 &gt; 运行</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤 2.c：右键单击项目 &gt; 构建路径 &gt; 配置构建路径 &gt; 库 &gt; 删除并更新任何库（如果存在红色标记） &gt; 完成。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤 3：[仅当 Tomcat 服务器未在 Eclipse 中配置]：右键单击项目 &gt; 运行方式 &gt; 在服务器上运行 &gt; 选择 Tomcat V8.0 &gt;（如果询问，请选择 Tomcat V8.0 安装位置）下一步 &gt; 添加在线书店 &gt; 完成。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤 4：在服务器选项卡中 &gt; 双击 Tomcat 服务器 &gt; 端口 &gt; 将 Http/1.1 的端口号更改为 8083 &gt; 关闭并保存。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤 5：右键单击项目 &gt; 运行方式 &gt; 在服务器上运行 &gt; 选择 Tomcat v8.0 &gt; 下一步 &gt; 全部添加 &gt; 完成。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 6 步：检查站点的运行情况  </font></font><a href="http://localhost:8083/onlinebookstore/" rel="nofollow"></a><a href="http://localhost:8083/onlinebookstore/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:8083/onlinebookstore/</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤7：管理员的默认用户名和密码是“Admin”和“Admin”</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤8：用户的默认用户名和密码是“shashi”和“shashi”</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常问问题</font></font></h2><a id="user-content-faq" class="anchor" aria-label="永久链接：常见问题解答" href="#faq"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题：1</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无法连接数据库？</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">答：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请检查您是否已正确安装 mysql 并已在 application.properties 文件中更新了正确的数据库详细信息。</font><font style="vertical-align: inherit;">您也可以尝试执行 maven clean install 并强制更新项目并重新启动。</font></font></p>
 <hr>
-
-Note:- Considering this as a Sample Project, we have not much considered of web security.
-#### Some Screenshots for the project:
-<img width="941" alt="image" src="https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png">
-<img width="954" alt="image" src="https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png">
-<img width="930" alt="image" src="https://user-images.githubusercontent.com/34605595/224770145-5902054f-5943-44ac-b02f-92097c8a6972.png">
-<img width="934" alt="image" src="https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png">
-<img width="946" alt="image" src="https://user-images.githubusercontent.com/34605595/224770392-5a5478d2-98cc-44ee-8689-132b6b16af80.png">
-
-
-#### "Suggestions and project improvement ideas are welcomed!"
-
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：- 考虑到这是一个示例项目，我们没有太多考虑网络安全。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目的一些屏幕截图：</font></font></h4><a id="user-content-some-screenshots-for-the-project" class="anchor" aria-label="永久链接：该项目的一些屏幕截图：" href="#some-screenshots-for-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png"><img width="941" alt="图像" src="https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png"><img width="954" alt="图像" src="https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34605595/224770145-5902054f-5943-44ac-b02f-92097c8a6972.png"><img width="930" alt="图像" src="https://user-images.githubusercontent.com/34605595/224770145-5902054f-5943-44ac-b02f-92097c8a6972.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png"><img width="934" alt="图像" src="https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/34605595/224770392-5a5478d2-98cc-44ee-8689-132b6b16af80.png"><img width="946" alt="图像" src="https://user-images.githubusercontent.com/34605595/224770392-5a5478d2-98cc-44ee-8689-132b6b16af80.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“欢迎提出建议和项目改进想法！”</font></font></h4><a id="user-content-suggestions-and-project-improvement-ideas-are-welcomed" class="anchor" aria-label="永久链接：“欢迎提出建议和项目改进想法！”" href="#suggestions-and-project-improvement-ideas-are-welcomed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非常感谢</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+项目负责人</font></font><br>
+<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Shashi Raj</font></font></b></p>
+</article></div>
